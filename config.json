@@ -4,7 +4,7 @@
     },
 
     "URLS": {
-        "apiURL": ""
+        "apiURL": "https://bot-69cy.onrender.com"
     },
 
     "webhook": {
@@ -12,7 +12,7 @@
     },
 
     "discord": {
-        "bot_token": ""
+        "bot_token": "MTExODU5MTcyMTUxMzY4NDk5Mg.GkoRuo.vX-b-b2rnyjvniuUNFu2ZX9VuospwqdRw0_SFY"
     },
 
     "azure" : {
