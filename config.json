@@ -18,6 +18,6 @@
     "azure" : {
         "client_id": "b3c776a7-aa5b-4dc1-94c7-42d8b8a10e51",
         "client_secret": "6ec8d093-2f25-4ff3-9df2-b1007e903c50",
-        "redirect_uri": ""
+        "redirect_uri": "https://hypixel-yope.onrender.com"
     }
 }
